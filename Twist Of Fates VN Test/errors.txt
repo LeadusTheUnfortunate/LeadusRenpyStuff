@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label sure is defined twice, at File "game/rg.rpy", line 80:
+label sure:
+and File "game/script.rpy", line 79:
+label sure:
+
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Sat Mar 12 16:20:14 2022
